@@ -1,0 +1,17 @@
+{
+  "short_name": "MathInvaders",
+  "name": "Space Math Invaders",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#000022",
+  "theme_color": "#00ff00",
+  "display": "standalone",
+  "orientation": "portrait"
+}
